@@ -27,6 +27,7 @@ javascripts: [ "/javascripts/jquery.js", "html/inc/click_more.js" ]
     415 | 脚注(1)第一行尾          | 漏印、丢字          | 而且是Gitolite的主要安装方式， | 且曾是Gitolite的主要安装方式， |
     429 | 第21行                   | 代码块应向右缩进    | dev1$ **git push ...**       | -                            |
     429 | 第22行                   | 文字前后重复，删除“拥有”两字 | 例如用户dev1拥有对其自建的版本库... | 例如用户dev1对其自建的版本库... |
+    439 | 第21行                   | 代缩进              | dev1$ **didisi...**          | -                            |
 
 ### 说明
 
